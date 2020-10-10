@@ -1,0 +1,4 @@
+0 Homem
+1 Mulher
+2 Cachorro
+3 Gato
